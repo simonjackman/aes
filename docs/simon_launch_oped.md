@@ -322,3 +322,5 @@ The data are weighted on demographic characteristics including age, gender, educ
 
 Complete methodological details on the 2022 AES and earlier AES data collections are available from the
 [AES website]( https://aes.anu.edu.au). 
+
+Data and code are also available at my [github repo](https://github.com/simonjackman/aes).
